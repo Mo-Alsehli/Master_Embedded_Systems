@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Mastering Embedded Systems Repo (Assignments & Progress).
 
 ---
