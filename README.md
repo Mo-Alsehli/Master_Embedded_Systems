@@ -14,7 +14,7 @@
 
 ---
 
-### Second Term ![image](https://progress-bar.dev/0/?title=Start Soon&color=ff0000)
+### Second Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff0000)
 
 - [Unit 6: MCU Fundamentals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 7: MCU Essential Peripherals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
