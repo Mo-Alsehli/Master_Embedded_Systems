@@ -34,11 +34,3 @@
 ---
 
 ## Overall progress ![image](https://progress-bar.dev/0/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
-
----
-
-# ---# Master_Embedded_Systems
-
-# Master_Embedded_Systems
-
-> > > > > > > 64c7063a3b949d86b3722c0cddedea09e4a60b69
