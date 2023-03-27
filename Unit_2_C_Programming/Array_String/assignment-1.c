@@ -34,8 +34,106 @@ int main() {
     }
     printf("\n \n"); */
 
-    printf("Program-2: \n");
-    printf("");
+    /* printf("Program-2: \n");
+    printf("C To Calculate Average Using Arrays? \n\n");
+
+    float avgArr[100], sum = 0, avg;
+    int n, i;
+
+    printf("Enter The Number Of Data: ");
+    scanf("%d", &n);
+
+    while(n >= 100 || n <= 0){
+        printf("Number of data should be less than 100 and more than 0 \n");
+        printf("Enter Number Of Data: ");
+        scanf("%d", &n);
+    }
+
+    for(i = 0; i < n; i++){
+        printf("%d. Enter Number: ", i+1);
+        scanf("%f", &avgArr[i]);
+        sum += avgArr[i];
+    }
+
+    avg = sum / n;
+
+    printf("Average = %.2f\n", avg);
+
+    printf("\n\n"); */
+
+
+    /* printf("Program-3");
+    printf("C Program To Get The Transpose Of Matrix? \n");
+
+    int matrix3[100][100], row, column, i, j;
+
+    printf("Enter The Number Of Rows And Columns: ");
+    scanf("%d %d",&row, &column);
+
+    printf("Enter Elements Of Matrix: \n");
+    for(i = 0; i < row; i++){
+        for(j = 0; j < column; j++){
+            printf("Enter Element a%d%d: ", i + 1, j + 1);
+            scanf("%d", &matrix3[i][j]);
+        }
+    }
+
+    printf("Entered Matrix: \n");
+    for(i = 0; i < row; i++){
+        for(j = 0; j < column; j++){
+            printf("%d      ", matrix3[i][j]);
+        }
+        printf("\n");
+    }
+
+
+    printf("Transpose Of Matrix: \n");
+    for(i = 0; i < column; i++){
+        for(j = 0; j < row; j++){
+            printf("%d      ", matrix3[j][i]);
+        }
+        printf("\n\n");
+    } */
+
+    printf("Program-4 \n");
+    printf("C Program To Insert An Element In An Array? \n\n");
+
+    int arr[100], ele, location, n, i;
+
+    printf("Enter Number Of Elements: ");
+    scanf("%d", &n);
+    
+    printf("Enter Basic Array Elements: ");
+    for(i = 0; i < n; i++){
+        scanf("%d", &arr[i]);
+    }
+
+    printf("Enter Element To Be Inserted: ");
+    scanf("%d", &ele);
+    printf("Enter The Location: ");
+    scanf("%d", &location);
+
+    arr[n + 1] = ele;
+
+    i = n + 1;
+    while(i != location - 1){
+        int prev = arr[i - 1];
+        arr[i - 1] = ele;
+        arr[i] = prev;
+        i--;
+    };
+
+    for(i = 0; i < n + 1; i++){
+        printf("%d  ", arr[i]);
+    }
+
+    printf("\n\n");
+
+
+
+
+
+
 
     
 }
