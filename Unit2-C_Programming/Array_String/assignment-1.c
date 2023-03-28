@@ -1,10 +1,11 @@
 #include <stdio.h>
-
+#include <string.h>
 
 
 
 int main() {
-    /* printf("Program-1: \n");
+
+    printf("Program-1: \n");
     printf("Write a C program to find the sum of two matrices of order 2 * 2 using multi-dimensional arrays? \n\n");
 
     float matrix1[2][2], matrix2[2][2];
@@ -32,9 +33,11 @@ int main() {
         }
         printf("\n");
     }
-    printf("\n \n"); */
+    printf("\n \n"); 
 
-    /* printf("Program-2: \n");
+// ###########################################################################################
+
+     printf("Program-2: \n");
     printf("C To Calculate Average Using Arrays? \n\n");
 
     float avgArr[100], sum = 0, avg;
@@ -59,13 +62,15 @@ int main() {
 
     printf("Average = %.2f\n", avg);
 
-    printf("\n\n"); */
+    printf("\n\n"); 
+    
+// ###########################################################################################
 
 
-    /* printf("Program-3");
+    printf("Program-3: \n");
     printf("C Program To Get The Transpose Of Matrix? \n");
 
-    int matrix3[100][100], row, column, i, j;
+    int matrix3[100][100], row, column, j;
 
     printf("Enter The Number Of Rows And Columns: ");
     scanf("%d %d",&row, &column);
@@ -93,12 +98,16 @@ int main() {
             printf("%d      ", matrix3[j][i]);
         }
         printf("\n\n");
-    } */
+    } 
 
-    printf("Program-4 \n");
+    
+// ###########################################################################################
+
+     printf("Program-4 \n");
     printf("C Program To Insert An Element In An Array? \n\n");
 
-    int arr[100], ele, location, n, i;
+    int arr[100], ele, location;
+    n = 0;
 
     printf("Enter Number Of Elements: ");
     scanf("%d", &n);
@@ -127,13 +136,43 @@ int main() {
         printf("%d  ", arr[i]);
     }
 
-    printf("\n\n");
-
-
-
-
-
-
-
+    printf("\n\n"); 
     
+// ###########################################################################################
+
+
+     printf("Program-5: \n");
+    printf("C Program To Search An Element In An Array? \n\n");
+
+    int nums[100], searchNum, flag = 0;
+
+    printf("Enter Number Of Elements: ");
+    scanf("%d", &n);
+
+    for(i = 0; i < n; i++){
+        nums[i] = 11 * (i + 1);
+        printf("%d  ", nums[i]);
+    }
+    printf("\n");
+
+    printf("Enter Elements To Be Searched: ");
+    scanf("%d", &searchNum);
+
+    for(i = 0; i < n; i++){
+        if(nums[i] == searchNum){
+            printf("Number Found At The Location = %d", i + 1);
+            flag = 1;
+            break;
+        }
+    }
+
+    if(!flag){
+        printf("Number Not Found In The List !!");
+    }
+
+    printf("\n\n"); 
+    
+// ###########################################################################################
+
+    return 0;
 }
