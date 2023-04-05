@@ -4,7 +4,8 @@
 
 # Google Drive
 
-## [Embedded Systems Diploma](https://drive.google.com/drive/folders/14fDA-kQDxM-L3riE7fh2rkt6n-VYQuSn?usp=share_link)
+[![Embedded Systems Diploma](https://user-images.githubusercontent.com/98949843/230186337-eb77c1b7-9fc9-48e7-a62c-824d9655b85b.png)](https://drive.google.com/drive/folders/14fDA-kQDxM-L3riE7fh2rkt6n-VYQuSn?usp=share_link)
+
 
 ## Contents
 
