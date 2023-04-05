@@ -2,5 +2,6 @@
 
 # Working Code Video
 
-[Array Assignment]()
-[String Assignment]()
+### [Array Assignment]()
+
+### [String Assignment]()
