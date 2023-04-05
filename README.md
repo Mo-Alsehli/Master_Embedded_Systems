@@ -2,6 +2,10 @@
 
 ---
 
+# Google Drive
+
+## [Embedded Systems Diploma](https://drive.google.com/drive/folders/14fDA-kQDxM-L3riE7fh2rkt6n-VYQuSn?usp=share_link)
+
 ## Contents
 
 ### First Term ![image](https://progress-bar.dev/0/?title=In_Progress)
