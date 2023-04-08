@@ -8,17 +8,13 @@
 
 #### C Program To Sum All Digits In A Given Number.
 
-
 https://user-images.githubusercontent.com/98949843/230744581-bc2ae733-eb53-4f73-86c6-ae126cc59678.mp4
-
 
 ### Program-2
 
 #### C Program To Get Square Root Of A Given Number.
 
-
 https://user-images.githubusercontent.com/98949843/230744617-2a121eb1-8d22-4c94-83c6-0adafcf31587.mp4
-
 
 ### Program-3
 
@@ -52,12 +48,18 @@ https://user-images.githubusercontent.com/98949843/230745041-132dfd77-5188-438b-
 
 ### Program-8
 
-#### C Program To Reverse Array Elements.### Program-9
+#### C Program To Reverse Array Elements.
+
+https://user-images.githubusercontent.com/98949843/230745360-aa6aad24-353c-4956-8574-dcdb31a29b72.mp4
+
+### Program-9
 
 #### C Program To Reverse Words In A Given String.
 
-Uploading Program-9.mp4…
+https://user-images.githubusercontent.com/98949843/230745433-0bf0b349-de82-43ef-b1f5-975bdab2bb20.mp4
 
 ### Program-10
 
 #### C Program To Find The Max Number Of Ones Between Two Zeros In The Binary Representation Of A Given Number.
+
+https://user-images.githubusercontent.com/98949843/230745458-3eeb5463-dbbd-4e4d-94b8-c21fbebd7a1f.mp4
