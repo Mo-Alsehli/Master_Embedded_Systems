@@ -1,8 +1,8 @@
 # First Term Midterm
 
-### Google DRive
+### Google Drive
 
-[!Drive]
+[![Midterm-Drive](https://user-images.githubusercontent.com/98949843/230735081-c0196cc2-c978-4526-8b93-378e679916ce.png)](https://drive.google.com/drive/folders/1GT5p1Mp4zAQKE7mhf7CJEfxPXz4MquBy?usp=share_link)
 
 ### Program-1
 
