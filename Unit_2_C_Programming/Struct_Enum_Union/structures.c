@@ -40,10 +40,6 @@ struct SComplex addComplex(struct SComplex c1, struct SComplex c2){
 }
 
 
-
-
-
-
 int main() {
     printf("############ Program-1 #############\n");
     printf("EX1: C Program To Store Information (name, roll and marks) Of A Student Using Structures: \n\n");
