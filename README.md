@@ -6,7 +6,11 @@
 
 [![Embedded Systems Diploma](https://user-images.githubusercontent.com/98949843/230186337-eb77c1b7-9fc9-48e7-a62c-824d9655b85b.png)](https://drive.google.com/drive/folders/14fDA-kQDxM-L3riE7fh2rkt6n-VYQuSn?usp=share_link)
 
+# My Page
+
+
 ## Contents
+[![diploma-photo](https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/c77fc328-03d3-4516-aca5-4a32d192664a)](https://www.learn-in-depth.com/online-diploma/mohamed.m.alsehli%40gmail.com)
 
 ### First Term ![image](https://progress-bar.dev/40/?title=In_Progress)
 
