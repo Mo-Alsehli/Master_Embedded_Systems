@@ -2,8 +2,8 @@
 
 ---
 # My Page
+[![diploma-photo](https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/2771d3c5-a3cb-4362-ae6a-07607e1d84cd)](https://www.learn-in-depth.com/online-diploma/mohamed.m.alsehli%40gmail.com)
 
-[![diploma-photo](https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/c77fc328-03d3-4516-aca5-4a32d192664a)]
 
 # Google Drive
 
