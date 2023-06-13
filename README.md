@@ -1,20 +1,22 @@
 # Mastering Embedded Systems Repo (Assignments & Progress).
 
 ---
-# My Page
-[![diploma-photo](https://user-images.githubusercontent.com/98949843/241395914-05cc79bf-9037-4a76-b6e9-2a1854e28d9d.png)](https://www.learn-in-depth.com/online-diploma/mohamed.m.alsehli%40gmail.com)
 
+# My Page
+
+[![diploma-photo](https://user-images.githubusercontent.com/98949843/241395914-05cc79bf-9037-4a76-b6e9-2a1854e28d9d.png)](https://www.learn-in-depth.com/online-diploma/mohamed.m.alsehli%40gmail.com)
 
 # Google Drive
 
 [![Embedded Systems Diploma](https://user-images.githubusercontent.com/98949843/230186337-eb77c1b7-9fc9-48e7-a62c-824d9655b85b.png)](https://drive.google.com/drive/folders/14fDA-kQDxM-L3riE7fh2rkt6n-VYQuSn?usp=share_link)
+
 ## Contents
 
 ### First Term ![image](https://progress-bar.dev/40/?title=In_Progress)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
 - [Unit 2: C Programming](Unit_2_C_Programming) ![image](https://progress-bar.dev/100/)
-- [Unit 3: Embedded C](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
+- [Unit 3: Embedded C](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/60/)
 - [Unit 4: System Architect](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 5: First Term Projects](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 
