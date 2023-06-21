@@ -12,11 +12,11 @@
 
 ## Contents
 
-### First Term ![image](https://progress-bar.dev/40/?title=In_Progress)
+### First Term ![image](https://progress-bar.dev/60/?title=In_Progress)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
 - [Unit 2: C Programming](Unit_2_C_Programming) ![image](https://progress-bar.dev/100/)
-- [Unit 3: Embedded C](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/60/)
+- [Unit 3: Embedded C](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
 - [Unit 4: System Architect](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 5: First Term Projects](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 
