@@ -1,9 +1,9 @@
-### This Is A Repo To Show How To Implement Data Structures (Stack, Queue and LinkedList With C Programming).
+## This Is A Repo To Show How To Implement Data Structures (Stack, Queue, and LinkedList With C Programming).
 
 ## Stack Implementation And Execution.
 
--Stack Depends On The Princple Last In First Out(LIFO)
--Main Functions Used In Stack.
+#### Stack Depends On The Principle Last In First Out(LIFO)
+#### Main Functions Used In Stack.
 
 ```
 1. Push
@@ -14,8 +14,8 @@
 
 ## Queue Implementation And Execution.
 
--Queue Depends On The Princple First In First Out(FIFO)
--Main Functions Used In Queue.
+#### Queue Depends On The Princple First In First Out(FIFO)
+#### Main Functions Used In Queue.
 
 ```
 1. Enqueue
@@ -26,8 +26,8 @@
 
 ## LinkedList Implementation And Execution (DataBase Students).
 
--LinkedList Depends On The Princple Of Dynamic Allocation.
--Main Funcitons Used In LinkedList.
+#### LinkedList Depends On The Principle Of Dynamic Allocation.
+#### Main Functions Used In LinkedList.
 
 ```
 1. Add Student
