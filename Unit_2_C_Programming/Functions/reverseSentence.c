@@ -3,9 +3,10 @@
 void reverseSentence()
 {
     char c;
+    printf("Here\n");
     scanf("%c", &c);
 
-    if(c != '\n')
+    if (c != '\n')
     {
         reverseSentence();
         printf("%c", c);
@@ -23,5 +24,3 @@ int main()
     printf("\n");
     return 0;
 }
-
-
