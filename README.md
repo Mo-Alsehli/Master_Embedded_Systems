@@ -12,17 +12,17 @@
 
 ## Contents
 
-### First Term ![image](https://progress-bar.dev/60/?title=In_Progress)
+### First Term ![image](https://progress-bar.dev/100/?title=completed)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
 - [Unit 2: C Programming](Unit_2_C_Programming) ![image](https://progress-bar.dev/100/)
-- [Unit 3: Embedded C](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
-- [Unit 4: System Architect](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 5: First Term Projects](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
+- [Unit 3: Embedded C](Unit_3_Embedded_C) ![image](https://progress-bar.dev/100/)
+- [Unit 4: System Architect](Unit_4_DataStructures) ![image](https://progress-bar.dev/100/)
+- [Unit 5: First Term Projects](First_Term_Final_Projects) ![image](https://progress-bar.dev/100/)
 
 ---
 
-### Second Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff0000)
+### Second Term ![image](https://progress-bar.dev/0/?title=In_Progress&color=ff0000)
 
 - [Unit 6: MCU Fundamentals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 7: MCU Essential Peripherals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)

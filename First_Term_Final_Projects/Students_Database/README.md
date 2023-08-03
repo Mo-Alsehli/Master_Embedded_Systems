@@ -1,12 +1,16 @@
 # Students Database
+
 ![Student_Database](https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/31c85f18-4413-4f28-b2c0-0454273fef2a)
 
-## A Pure C project 
-- It simulates a database for students in college and is a useful and practical application that can have various features and functionalities. 
+## A Pure C project
+
+- It simulates a database for students in college and is a useful and practical application that can have various features and functionalities.
 - The implementation likely involves using appropriate data structures which is Queue to efficiently store and manage the student records.
+- Right automation to simply run the project on any host machine that has a C compiler.
 - Friendly interface for the user to interact with.
 
 **To run the project on your machine:**
+
 ```
 1. Clone the repo.
 2. Open the main folder in the terminal.
@@ -15,13 +19,14 @@
 ```
 
 # Google Drive
+
 ## [Drive](https://drive.google.com/drive/folders/1XE5dWHBNNiHBEZ1xjLLQ7J6NVv5_a-CZ?usp=sharing)
 
 # Working Code Functionality
+
 ## 1. Add students' data from a folder.
 
 https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/5b0ed0a3-63bd-46bb-a996-9222d1acb014
-
 
 ## 2. Add student manually.
 
@@ -52,4 +57,3 @@ https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/c5ddee75-9
 https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/bcfba02e-c432-419e-99df-a1bc58c0041a
 
 https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/8257b654-ad6a-4ce2-b647-99fc2be1ee49
-
