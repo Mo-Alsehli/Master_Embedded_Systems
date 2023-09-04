@@ -15,16 +15,16 @@
 4. AFIO -> Alternative Function Input Output Register.
 
 ### Procedure
-•  To generate the interrupt, the interrupt line should be configured and enabled. This is done
-  by programming the two trigger registers with the desired edge detection and by enabling
-	the interrupt request by writing a ‘1’ to the corresponding bit in the interrupt mask register.
-	When the selected edge occurs on the external interrupt line, an interrupt request is
-	generated. The pending bit corresponding to the interrupt line is also set. This request is
-	reset by writing a ‘1’ in the pending register.
-•  Configure the mask bits of the 20 Interrupt lines (EXTI_IMR)
-•  Configure the Trigger Selection bits of the Interrupt lines (EXTI_RTSR and
+1. To generate the interrupt, the interrupt line should be configured and enabled. This is done
+   by programming the two trigger registers with the desired edge detection and by enabling
+   the interrupt request by writing a ‘1’ to the corresponding bit in the interrupt mask register.
+   When the selected edge occurs on the external interrupt line, an interrupt request is
+   generated. The pending bit corresponding to the interrupt line is also set. This request is
+   reset by writing a ‘1’ in the pending register.
+2. Configure the mask bits of the 20 Interrupt lines (EXTI_IMR)
+3. Configure the Trigger Selection bits of the Interrupt lines (EXTI_RTSR and
    EXTI_FTSR)
-•  Configure the enable and mask bits that control the NVIC IRQ channel mapped to the
+4. Configure the enable and mask bits that control the NVIC IRQ channel mapped to the
    External Interrupt Controller (EXTI) so that an interrupt coming from one of the 20 lines
    can be correctly acknowledged.
 
