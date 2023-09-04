@@ -24,7 +24,7 @@
 
 ### Second Term ![image](https://progress-bar.dev/0/?title=In_Progress&color=355E3B)
 
-- [Unit 6: MCU Fundamentals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
+- [Unit 6: MCU Fundamentals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
 - [Unit 7: MCU Essential Peripherals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 8: MCU Interfacing](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 9: MCU Timers/ADC](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
