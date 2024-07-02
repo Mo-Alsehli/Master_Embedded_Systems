@@ -25,9 +25,9 @@
 ### Second Term ![image](https://progress-bar.dev/0/?title=In_Progress&color=355E3B)
 
 - [Unit 6: MCU Fundamentals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
-- [Unit 7: MCU Essential Peripherals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 8: MCU Interfacing](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 9: MCU Timers/ADC](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
+- [Unit 7: MCU Essential Peripherals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
+- [Unit 8: MCU Interfacing](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
+- [Unit 9: MCU Timers/ADC](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
 
 ---
 
@@ -35,10 +35,10 @@
 
 - [Unit 12: Advanced Topics](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 13: Automotive Protocols](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 15: RTOS Basics](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
+- [Unit 15: RTOS Basics](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/10/)
 - [Unit 16: AUTOSAR Basics](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 - [Unit 17: Embedded Linux Basics](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
 
 ---
 
-## Overall progress ![image](https://progress-bar.dev/1/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
+## Overall progress ![image](https://progress-bar.dev/2/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
