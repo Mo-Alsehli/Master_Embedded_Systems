@@ -22,7 +22,7 @@
 
 ---
 
-### Second Term ![image](https://progress-bar.dev/0/?title=In_Progress&color=355E3B)
+### Second Term ![image](https://progress-bar.dev/100/?title=In_Progress&color=355E3B)
 
 - [Unit 6: MCU Fundamentals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
 - [Unit 7: MCU Essential Peripherals](https://github.com/Mo-Alsehli/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/)
